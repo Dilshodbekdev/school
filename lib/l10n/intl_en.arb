@@ -1,0 +1,226 @@
+{
+  "login": "Login",
+  "username": "User",
+  "password": "Password",
+  "rememberMe": "Remember me",
+  "home": "Главная",
+  "book": "Журнал",
+  "task": "Тестирование",
+  "profile": "Профиль",
+  "statistics": "Статистики",
+  "recommendationsforyou": "Рекомендации для вас",
+  "seeai": "Посмотрите рекомендации от\nискусственного интеллекта",
+  "look": "Посмотреть",
+  "daily": "Дневник",
+  "next": "Continue",
+  "language": "Language",
+  "nutrition": "Питание",
+  "seeAll": "Показать все",
+  "schoolNews": "Новости школы",
+  "noInfoFound": "Информация не найдена",
+  "today": "Bugun",
+  "rating": "Рейтинг",
+  "attendance": "Посещаемость",
+  "appropriation": "Успеваемость",
+  "averageRating": "Средняя\nоценка",
+  "monday": "Понедельник",
+  "tuesday": "Вторник",
+  "wednesday": "Среда",
+  "thursday": "Четверг",
+  "friday": "Пятница",
+  "quarter": "Четверть",
+  "subjectTest": "Тесты по предметам",
+  "psychologicalTest": "Психологические тесты",
+  "iqTest": "IQ тесты",
+  "main_info": "Основная информация",
+  "yearOfBirth": "Год рождения",
+  "gender": "Пол",
+  "livingPlace": "Место проживание",
+  "district": "Район",
+  "address": "Улица, дом",
+  "phone": "Телефон",
+  "email": "Эл.почта",
+  "hobby": "Хобби",
+  "completed": "Завершенные",
+  "started": "Начатые",
+  "newTest": "Новые",
+  "until": "до",
+  "@until": {
+    "description": "until date",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "toTest": "К тесту",
+  "startTest": "Наичаньем тест?",
+  "testTime": "Время теста: ",
+  "minutes": "{minutes} минут",
+  "@minutes": {
+    "description": "minutes",
+    "placeholders": {
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "pcs": "{pcs} шт",
+  "@pcs": {
+    "description": "questions count",
+    "placeholders": {
+      "pcs": {
+        "type": "int"
+      }
+    }
+  },
+  "questions": "Вопросы: ",
+  "cancel": "Отменить",
+  "accept": "Принять",
+  "previous": "Oldingisi",
+  "nextOne": "Keyingisi",
+  "finish": "Yakunlash",
+  "doYouWantFinish": "Вы действительно хотите завершить?",
+  "muvaffaqiyatliSaqlandi": "Muvaffaqiyatli saqlandi",
+  "exitAccountText": "Вы хотите выйти из системы?",
+  "classes": "Классы",
+  "validReason": "Уважительная причина",
+  "noReason": "Без причины",
+  "magazine": "Журнал",
+  "magazines": "Журналы",
+  "plan": "План",
+  "myClass": "Мой класс",
+  "readMore": "Подробнее",
+  "clas": "Класс",
+  "item": "Предмет",
+  "active": "Активные",
+  "template": "Шаблоны",
+  "selectRating": "Выберите оценку",
+  "clear": "Очистить",
+  "import": "Импорт",
+  "name": "Название",
+  "date": "Дата",
+  "homework": "Домашное задание",
+  "thefieldmustnotbeempty": "поле не должно быть пустым",
+  "save": "Сохранит",
+  "doYouWontToDelete": "Вы действительно хотите удалить?",
+  "import1": "Импортировать",
+  "download": "Загрузить",
+  "filesizeshouldnotexceed3MB": "размер файла не должен превышать 3 Мб",
+  "column": "Столбец",
+  "term": "Срок",
+  "fio": "ФИО",
+  "grade": "Оценка",
+  "number": "Номер",
+  "question": "Вопрос",
+  "answer": "Ответ",
+  "createTest": "Добавить тест",
+  "basicInfo": "Основная информация",
+  "timeForTest": "Время для теста",
+  "startredDate": "Время начала",
+  "endedDate": "Время окончания",
+  "description": "Описание",
+  "numberOfQuestions": "Разброс вопросов",
+  "questionByIndex": "{index}-вопрос",
+  "@questionByIndex": {
+    "description": "question by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "quarterByIndex": "{index}-я четверть",
+  "@quarterByIndex": {
+    "description": "quarter by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "weekByIndex": "{index}-неделя",
+  "@weekByIndex": {
+    "description": "week by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "answerByIndex": "{index}-ответ",
+  "@answerByIndex": {
+    "description": "answer by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "ratingCount": "Baholar soni: {count}",
+  "@ratingCount": {
+    "description": "rating count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "addAnswer": "Добавить ответ",
+  "theremustbeatleasttwoanswers": "должно быть как минимум два ответа",
+  "theremustbeatleastonequestion": "должен быть хотя бы один вопрос",
+  "addQuestion": "Добавить вопрос",
+  "pleaseselectaanswer": "Пожалуйста, выберите ответ",
+  "details": "Детали",
+  "directionofquestions": "Направление вопросов",
+  "add": "Добавить",
+  "direction": "Направление",
+  "ball": "Балл",
+  "directionalTests": "Тесты по направлению",
+  "scoreTests": "Тесты по баллам",
+  "resultsByBall": "Результаты по баллам",
+  "from": "От",
+  "to": "До",
+  "theremustbeatleastonescoringresult": "должен быть хотя бы один результат подсчета очков",
+  "tilniOzgartirish": "Tilni o'zgartirish",
+  "no": "№",
+  "fanNomi": "Fan nomi",
+  "baho": "Baho",
+  "sbl": "SBL",
+  "darsJadvali": "Dars jadvali",
+  "baholanmagan": "Baholanmagan",
+  "score2": "2 балл",
+  "score3": "3 балл",
+  "score4": "4 балл",
+  "score5": "5 балл",
+  "chorakBaho": "Chorak baho",
+  "yillikBaho": "Yillik baho",
+
+  "yillikBaho1": "Yillik\nbaho",
+  "kelmagan": "Kelmagan",
+  "chorakliknbaho": "Choraklik\nbaho",
+  "tasdiqlash": "Tasdiqlash",
+  "buKundaMazkurDarsBolmaydi": "Bu kunda mazkur dars boʼlmaydi",
+  "yoq": "Yo'q",
+  "ha": "Ha",
+  "server_school": "Samarqand Darvoza",
+  "server_school2": "Chilonzor",
+  "thePasswordMustHaveAtLeast8Characters": "The password must have at least 8 characters",
+  "filialniTanlang": "Select a branch",
+  "changeHobby": "Изменить хобби",
+  "changePassword": "Изменить пароль",
+  "oldPassword": "Старый пароль",
+  "newPassword": "Новый пароль",
+  "anotherRole": "Другая роль",
+  "kcal": "{count} kkal",
+  "@kcal": {
+    "description": "rating count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "male": "Erkak",
+  "famale": "Ayol"
+}

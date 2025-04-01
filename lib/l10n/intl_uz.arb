@@ -1,0 +1,225 @@
+{
+  "login": "Kirish",
+  "username": "Foydalanuvchi",
+  "password": "Parol",
+  "rememberMe": "Eslab qolish",
+  "home": "Bosh sahifa",
+  "book": "Jurnal",
+  "task": "Testlash",
+  "profile": "Profil",
+  "statistics": "Statistikalar",
+  "recommendationsforyou": "Siz uchun tavsiyalar",
+  "seeai": "Sun’iy intellektning tavsiyalarini ko‘rib chiqing",
+  "look": "Ko‘rish",
+  "daily": "Kundalik",
+  "next": "Davom etish",
+  "language": "Til",
+  "nutrition": "Taomnoma",
+  "seeAll": "Barchasi",
+  "schoolNews": "Maktab yangiliklari",
+  "noInfoFound": "Ma’lumot topilmadi",
+  "today": "Bugun",
+  "rating": "Reyting",
+  "attendance": "Davomat",
+  "appropriation": "O‘zlashtirish",
+  "averageRating": "O‘rtacha\nbaho",
+  "monday": "Dushanba",
+  "tuesday": "Seshanba",
+  "wednesday": "Chorshanba",
+  "thursday": "Payshanba",
+  "friday": "Juma",
+  "quarter": "Chorak",
+  "subjectTest": "Fanlardan testlar",
+  "psychologicalTest": "Psixologik testlar",
+  "iqTest": "IQ testlar",
+  "main_info": "Asosiy ma’lumotlar",
+  "yearOfBirth": "Tug‘ilgan yili",
+  "gender": "Jinsi",
+  "livingPlace": "Yashash manzili",
+  "district": "Tuman",
+  "address": "Ko‘cha, uy",
+  "phone": "Telefon",
+  "email": "Elektron pochta",
+  "hobby": "Xobbi",
+  "completed": "Tugatilgan",
+  "started": "Boshlangan",
+  "newTest": "Yangilar",
+  "until": "{date} gacha",
+  "@until": {
+    "description": "until date",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "toTest": "Testga",
+  "startTest": "Testni boshlaymizmi?",
+  "testTime": "Test vaqti: ",
+  "minutes": "{minutes} daqiqa",
+  "@minutes": {
+    "description": "minutes",
+    "placeholders": {
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "pcs": "{pcs} dona",
+  "@pcs": {
+    "description": "questions count",
+    "placeholders": {
+      "pcs": {
+        "type": "int"
+      }
+    }
+  },
+  "questions": "Savollar: ",
+  "cancel": "Bekor qilish",
+  "accept": "Qabul qilish",
+  "previous": "Oldingisi",
+  "nextOne": "Keyingisi",
+  "finish": "Yakunlash",
+  "doYouWantFinish": "Siz haqiqatan ham yakunlamoqchimisiz?",
+  "muvaffaqiyatliSaqlandi": "Muvaffaqiyatli saqlandi",
+  "exitAccountText": "Tizimdan chiqmoqchimisiz?",
+  "classes": "Sinflar",
+  "validReason": "Sababli",
+  "noReason": "Sababsiz",
+  "magazine": "Jurnal",
+  "magazines": "Jurnallar",
+  "plan": "Reja",
+  "myClass": "Mening sinfim",
+  "readMore": "Batafsil",
+  "clas": "Sinf",
+  "item": "Fan",
+  "active": "Faol",
+  "template": "Namunalar",
+  "selectRating": "Bahoni tanlang",
+  "clear": "Tozalash",
+  "import": "Import qilish",
+  "name": "Nomi",
+  "date": "Sana",
+  "homework": "Uyga vazifa",
+  "thefieldmustnotbeempty": "Maydon bo‘sh qolmasligi kerak",
+  "save": "Saqlash",
+  "doYouWontToDelete": "Haqiqatan ham o‘chirishni istaysizmi?",
+  "import1": "Import qilish",
+  "download": "Yuklash",
+  "filesizeshouldnotexceed3MB": "fayl o‘lchami 3 Mb dan oshmasligi lozim",
+  "column": "Ustun",
+  "term": "Muddat",
+  "fio": "FISH",
+  "grade": "Baho",
+  "number": "Raqam",
+  "question": "Savol",
+  "answer": "Javob",
+  "createTest": "Test qo‘shish",
+  "basicInfo": "Asosiy ma’lumotlar",
+  "timeForTest": "Test vaqti",
+  "startredDate": "Boshlanish vaqti",
+  "endedDate": "Tugash vaqti",
+  "description": "Tavsif",
+  "numberOfQuestions": "Savollar taqsimoti",
+  "questionByIndex": "{index}-savol",
+  "@questionByIndex": {
+    "description": "question by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "quarterByIndex": "{index}-chorak",
+  "@quarterByIndex": {
+    "description": "quarter by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "weekByIndex": "{index}-hafta",
+  "@weekByIndex": {
+    "description": "week by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "answerByIndex": "{index}-javob",
+  "@answerByIndex": {
+    "description": "answer by index",
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "ratingCount": "Baholar soni: {count}",
+  "@ratingCount": {
+    "description": "rating count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "addAnswer": "Javob qo'shish",
+  "theremustbeatleasttwoanswers": "Eng kamida ikkita javob bo‘lishi kerak",
+  "theremustbeatleastonequestion": "Hech bo‘lmaganda bitta savol bo‘lishi kerak",
+  "addQuestion": "Savol qo‘shish",
+  "pleaseselectaanswer": "Iltimos, javobni tanlang",
+  "details": "Tafsilotlar",
+  "directionofquestions": "Savollar yo‘nalishi",
+  "add": "Qo‘shish",
+  "direction": "Yo‘nalishlar",
+  "ball": "Ball",
+  "directionalTests": "Yo‘nalish bo‘yicha testlar",
+  "scoreTests": "Ball bo‘yicha testlar",
+  "resultsByBall": "Ballar bo‘yicha natijalar",
+  "from": "Dan",
+  "to": "Oldin",
+  "theremustbeatleastonescoringresult": "hech bo‘lmaganda bitta ball hisobi natijasi bo‘lishi kerak",
+  "tilniOzgartirish": "Tilni o'zgartirish",
+  "no": "№",
+  "fanNomi": "Fan nomi",
+  "baho": "Baho",
+  "sbl": "SBL",
+  "darsJadvali": "Dars jadvali",
+  "baholanmagan": "Baholanmagan",
+  "score2": "2 baho",
+  "score3": "3 baho",
+  "score4": "4 baho",
+  "score5": "5 baho",
+  "chorakBaho": "Chorak baho",
+  "yillikBaho": "Yillik baho",
+  "yillikBaho1": "Yillik\nbaho",
+  "kelmagan": "Kelmagan",
+  "chorakliknbaho": "Choraklik\nbaho",
+  "tasdiqlash": "Tasdiqlash",
+  "buKundaMazkurDarsBolmaydi": "Bu kunda mazkur dars boʼlmaydi",
+  "yoq": "Yoʼq",
+  "ha": "Ha",
+  "server_school": "Samarqand Darvoza",
+  "server_school2": "Chilonzor",
+  "thePasswordMustHaveAtLeast8Characters": "Parol kamida 8 ta belgidan iborat bo'lishi kerak",
+  "filialniTanlang": "Filialni tanlang",
+  "changeHobby": "Hobbini o‘zgartirish",
+  "changePassword": "Parolni o'zgartirish",
+  "oldPassword": "Eski parol",
+  "newPassword": "Yangi parol",
+  "anotherRole": "Boshqa rol",
+  "kcal": "{count} kkal",
+  "@kcal": {
+    "description": "rating count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "male": "Erkak",
+  "famale": "Ayol"
+}
